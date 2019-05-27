@@ -89,7 +89,6 @@ Have fun exploring all tools listed here.
 - [Neomutt](https://neomutt.org/)
 - [Thunderbird](https://www.thunderbird.net/en-US/)
 
-
 # PDF Reader
 
 - [Evince](https://wiki.gnome.org/Apps/Evince)
@@ -114,11 +113,11 @@ Another excellent compilation: https://github.com/jdblischak/r-project-workflows
 
 - [containerit](https://github.com/o2r-project/containeRit)
 - [drake](https://github.com/ropensci/drake)
-- [redoc](https://github.com/noamross/redoc)
-- [rticles](https://github.com/rstudio/rticles)
-- [rrtools](https://github.com/benmarwick/rrtools)
-- [rrtools.addin](https://github.com/nevrome/rrtools.addin)
 - [packrat](https://github.com/rstudio/packrat)
+- [redoc](https://github.com/noamross/redoc)
+- [rrtools.addin](https://github.com/nevrome/rrtools.addin)
+- [rrtools](https://github.com/benmarwick/rrtools)
+- [rticles](https://github.com/rstudio/rticles)
 - [workflowr](https://github.com/jdblischak/workflowr)
 
 ## Data Storages
@@ -139,15 +138,15 @@ Another excellent compilation: https://github.com/jdblischak/r-project-workflows
 
 - [byobu](http://www.byobu.co/)
 - [fish](https://fishshell.com/)
+- [MobaXterm](https://mobaxterm.mobatek.net/) (Windows only)
 - [neovim](https://neovim.io/)
 - [nnn](https://github.com/jarun/nnn)
-- [MobaXterm](https://mobaxterm.mobatek.net/) (Windows only)
 - [rofi](https://github.com/davatorium/rofi)
 - [st](https://github.com/LukeSmithxyz/st)
 - [Tilix](https://github.com/gnunn1/tilix)
+- [.tmux](https://github.com/gpakosz/.tmux)
 - [tmux](https://github.com/tmux/tmux)
 - [tmuxinator](https://github.com/tmuxinator/tmuxinator)
-- [.tmux](https://github.com/gpakosz/.tmux)
 
 # Writing
 
