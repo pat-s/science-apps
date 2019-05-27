@@ -144,6 +144,7 @@ Another excellent compilation: https://github.com/jdblischak/r-project-workflows
 - [MobaXterm](https://mobaxterm.mobatek.net/) (Windows only)
 - [rofi](https://github.com/davatorium/rofi)
 - [st](https://github.com/LukeSmithxyz/st)
+- [Tilix](https://github.com/gnunn1/tilix)
 - [tmux](https://github.com/tmux/tmux)
 - [tmuxinator](https://github.com/tmuxinator/tmuxinator)
 - [.tmux](https://github.com/gpakosz/.tmux)
