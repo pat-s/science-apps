@@ -9,33 +9,6 @@ Have fun exploring all tools listed here.
 
 [pat-s/dotfiles](https://github.com/pat-s/dotfiles)
 
-# Table of Contents
-<!-- vim-markdown-toc GFM -->
-
-* [Browsers](#browsers)
-* [Coding](#coding)
-  * [IDEs](#ides)
-  * [R related tools](#r-related-tools)
-* [File Managers](#file-managers)
-* [GNU/Linux](#gnulinux)
-* [Image Viewers](#image-viewers)
-* [Notes](#notes)
-* [Mail](#mail)
-* [PDF Reader](#pdf-reader)
-* [Presentations](#presentations)
-* [Reference Managers](#reference-managers)
-* [Reproducible Research](#reproducible-research)
-  * [R Packages](#r-packages)
-  * [Data Storages](#data-storages)
-* [Task Management / Organization](#task-management--organization)
-* [Terminal related](#terminal-related)
-* [Writing](#writing)
-  * [LaTeX](#latex)
-  * [Review](#review)
-* [Apps to avoid](#apps-to-avoid)
-
-<!-- vim-markdown-toc -->
-
 # Browsers
 
 - [Brave](https://brave.com/)
@@ -43,6 +16,9 @@ Have fun exploring all tools listed here.
 - [Firefox](https://www.mozilla.org/en-US/firefox/new/)
 - [Vivaldi](https://vivaldi.com/)
 
+<!-- vim-markdown-toc GFM -->
+
+* [Coding](#coding)
 # Coding
 
 ## IDEs
@@ -56,6 +32,7 @@ Have fun exploring all tools listed here.
 - [radian](https://github.com/randy3k/radian)
 - [startup](https://github.com/HenrikBengtsson/startup)
 
+  * [IDEs](#ides)
 # File Managers
 
 - [Dolphin](https://userbase.kde.org/Dolphin)
@@ -63,6 +40,7 @@ Have fun exploring all tools listed here.
 - [nnn](https://github.com/jarun/nnn)
 - [ranger](https://github.com/ranger/ranger)
 
+  * [R related tools](#r-related-tools)
 # GNU/Linux
 
 - [ArchLabs](https://archlabslinux.com/)
@@ -71,41 +49,50 @@ Have fun exploring all tools listed here.
 - [sway](https://github.com/swaywm/sway)
 - [Waybar](https://github.com/Alexays/Waybar)
 
+* [File Managers](#file-managers)
 # Image Viewers
 
 - [imv](https://github.com/eXeC64/imv)
 - [sxiv](https://github.com/muennich/sxiv)
 - [xnviewmp](https://www.xnview.com/en/xnviewmp/)
 
+* [GNU/Linux](#gnulinux)
 # Notes
 
 - [Boostnote](https://github.com/BoostIO/Boostnote)
 - [Notable](https://github.com/notable/notable)
 - [Notion](https://www.notion.so)
 
+* [Image Viewers](#image-viewers)
 # Mail
 
 - [Mailspring](https://github.com/Foundry376/Mailspring)
 - [Neomutt](https://neomutt.org/)
 - [Thunderbird](https://www.thunderbird.net/en-US/)
 
+* [Notes](#notes)
 # PDF Reader
 
 - [Evince](https://wiki.gnome.org/Apps/Evince)
 - [Okular](https://okular.kde.org/)
 - [Zathura](https://pwmt.org/projects/zathura)
 
+* [Mail](#mail)
 # Presentations
 
 - [impressive](http://impressive.sourceforge.net/)
 - [xaringan](https://github.com/yihui/xaringan)
 
+* [PDF Reader](#pdf-reader)
 # Reference Managers
 
 - [Jabref](https://github.com/JabRef/jabref)
 - [Zotero](https://www.zotero.org/)
 
+* [Presentations](#presentations)
 # Reproducible Research
+
+- [docker](https://www.docker.com/) / [rocker](https://www.rocker-project.org/) (R package)
 
 ## R Packages
 
@@ -125,6 +112,7 @@ Another excellent compilation: https://github.com/jdblischak/r-project-workflows
 - [Mendeley Data](https://data.mendeley.com/)
 - [Zenodo](https://zenodo.org/)
 
+* [Reference Managers](#reference-managers)
 # Task Management / Organization
 
 - [Gitea](https://github.com/go-gitea/gitea)
@@ -134,6 +122,7 @@ Another excellent compilation: https://github.com/jdblischak/r-project-workflows
 - [Todoist](https://todoist.com)
 - [yadm](https://yadm.io/)
 
+* [Reproducible Research](#reproducible-research)
 # Terminal related
 
 - [byobu](http://www.byobu.co/)
@@ -148,6 +137,7 @@ Another excellent compilation: https://github.com/jdblischak/r-project-workflows
 - [tmux](https://github.com/tmux/tmux)
 - [tmuxinator](https://github.com/tmuxinator/tmuxinator)
 
+  * [R Packages](#r-packages)
 # Writing
 
 - [LibreOffice](https://www.libreoffice.org/)
@@ -164,9 +154,18 @@ Another excellent compilation: https://github.com/jdblischak/r-project-workflows
 - [Dochub](https://dochub.com/)
 - [Overleaf](https://www.overleaf.com/)
 
+  * [Data Storages](#data-storages)
 # Apps to avoid
 
 - Windows Operating System
 - Microsoft Word
 - Microsoft Powerpoint
 - [PuTTY](https://putty.org/)
+* [Task Management / Organization](#task-management--organization)
+* [Terminal related](#terminal-related)
+* [Writing](#writing)
+  * [LaTeX](#latex)
+  * [Review](#review)
+* [Apps to avoid](#apps-to-avoid)
+
+<!-- vim-markdown-toc -->
